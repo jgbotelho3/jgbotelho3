@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jgbotelho3)](https://twitter.com/jgbotelho3)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgbotelho3/)](https://www.linkedin.com/in/jgbotelho3/)
 
-I'm a Software developer learning more about how to get better my skills.
+I'm a Software Developer learning more about how to get better my skills.
 
 - 💻 I’m working on a beautiful project called [Beplay](https://beplay.com.br)
 - 🌱 I’m currently learning how to create an ecommerce with [Strapi](https://github.com/jgbotelho3/won-games-api) 
