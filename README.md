@@ -1,12 +1,13 @@
-### Hey, My name is Jefferson!!! 👋🏾
+### Hey, my name is Jefferson!!! 👋🏾
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jgbotelho3)](https://twitter.com/jgbotelho3)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgbotelho3/)](https://www.linkedin.com/in/jgbotelho3/)
 
 I'm a Software developer learning more about how to get better my skills.
 
-- 💻I’m currently working on a ecommerce game with strapi [ReactJs](https://github.com/jgbotelho3/won-games-api) 
-- 👯 I’m looking to collaborate on (https://beplay.com.br)
+- 💻 I’m working on a beatiful project (https://beplay.com.br)
+- 🌱 I’m currently learning how to create an ecommerce with strapi [ReactJs](https://github.com/jgbotelho3/won-games-api) 
+
 
 <!--
 **jgbotelho3/jgbotelho3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
