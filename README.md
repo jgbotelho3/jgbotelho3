@@ -5,8 +5,8 @@
 
 I'm a Software Developer learning more about how to get better my skills.
 
-- 💻 I’m working on a beautiful project called [Beplay](https://beplay.com.br)
-- 🌱 I’m currently learning how to create an ecommerce with [Strapi](https://github.com/jgbotelho3/won-games-api) 
+- 💻  I’m working on a project called [Beplay](https://beplay.com.br)
+- 🌱  I’m currently learning how to create an ecommerce with [Strapi](https://github.com/jgbotelho3/won-games-api) 
 
 
 <!--
