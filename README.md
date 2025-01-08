@@ -3,9 +3,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jgbotelho3)](https://twitter.com/jgbotelho3)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgbotelho3/)](https://www.linkedin.com/in/jgbotelho3/)
 
-I'm a Software Developer learning more about how to get better my skills.
+I'm a Software Developer learning more about how to enhance my skills.
 
-- 💻  I’m working on a project using ReactJs, Material UI and a lot of frontend stuffs
+- 💻  ReactJS/Angular projects are ongoing.
 - 🌱  I’m currently learning some things like: ReactJs, VueJs and I'm building an API using PHP (Laravel Framework)
 
 
